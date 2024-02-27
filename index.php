@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "i am jink";
+echo "i am gwapa";
 
 
  ?>
